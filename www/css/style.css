@@ -1,0 +1,31 @@
+@import "/css/normalize.css";
+
+.b-body {
+	background: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+.b-wrapper {
+	/*max-width: 1200px;*/
+	margin: 0 20px 0 20px;
+	background: #f4f8e5;
+	/*height: 100%;*/
+}
+
+.b-header, .b-footer {
+	height: 90px;
+	background: #8d909d;
+}
+
+.b-nav {
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.b-main {
+	min-height: 100%;
+}
+/*.b-footer {
+
+}*/
